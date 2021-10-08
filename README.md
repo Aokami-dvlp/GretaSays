@@ -1,1 +1,1 @@
-# let Greta say Joke!
+# Let Greta say a joke!

@@ -78,7 +78,7 @@
     <script>
         async function fetchJoke(){
             try {
-            let response = await fetch('https://v2.jokeapi.dev/joke/Programmin');
+            let response = await fetch('https://v2.jokeapi.dev/joke/Programming');
             let {setup,delivery,joke} = await response.json();
             if(joke){
                 return joke;
